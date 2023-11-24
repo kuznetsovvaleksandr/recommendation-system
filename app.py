@@ -4,6 +4,8 @@ import numpy as np
 import csv
 from sentence_transformers import SentenceTransformer, util
 
+# Модель
+#___________________________________________________________________________________
 def read_df():
     df = pd.read_csv('data.csv')
     pd.options.mode.chained_assignment = None
@@ -57,6 +59,12 @@ def rec_sys(book_theme, n):
         rec_list[i].append(recommended_books[i])
 
     return rec_list
+#___________________________________________________________________________________
+
+
+
+#Веб интерфейс
+#___________________________________________________________________________________
 
 st.title('BOOK REC')
 
