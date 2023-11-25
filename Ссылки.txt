@@ -1,0 +1,7 @@
+GitHub
+
+https://github.com/kuznetsovvaleksandr/recommendation-system
+
+GoogleCollab
+
+https://colab.research.google.com/drive/1R6dMQhkdjPwrQxwOG4FOAgY9_VuKI9jS#scrollTo=GyEUWdIe44N8
